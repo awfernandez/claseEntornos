@@ -1,4 +1,4 @@
-package Clases;
+package Repaso;
 
 public class HolaMundo {
 
